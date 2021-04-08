@@ -52,7 +52,7 @@ const Signup = () => {
                     <hr />
                     <button className="btn btn-success" id="signupbtn" type="submit">
                         Signup
-                </button>
+                </button><span> or <a href="/login">Login</a></span>
                 </form>
             </div>
 
